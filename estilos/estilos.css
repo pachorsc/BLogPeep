@@ -5,9 +5,8 @@ body {
     font-style: italic;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
  }
- .peep {
-    size-adjust: 300px;
-    height: 300px;
-    width: 300px;
-
+.titulo {
+       border-width: 3px;
+       border-color: blue;
+       border-radius: 3px;
 }
